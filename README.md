@@ -15,7 +15,7 @@
 
 사용한 api 는 Google Map Api, TTS APi, Retrofit2 등
 <div>
- <img src="https://user-images.githubusercontent.com/35592924/51080481-fc8c7800-171f-11e9-931f-021e09cff576.jpg" width="48%"></img>
+ <img src="https://user-images.githubusercontent.com/35592924/51080481-fc8c7800-171f-11e9-931f-021e09cff576.jpg" width="50%"></img>
   <img src="https://user-images.githubusercontent.com/35592924/51080489-fe563b80-171f-11e9-918d-8f531a598357.jpg" width="50%"></img>
    <img src="https://user-images.githubusercontent.com/35592924/51080483-fdbda500-171f-11e9-976e-d0d569e407c7.jpg" width="50%"></img>
     <img src="https://user-images.githubusercontent.com/35592924/51080484-fdbda500-171f-11e9-894a-7f88f6766052.jpg" width="50%"></img>
@@ -40,7 +40,7 @@
  8. 아직 b2c 계약을 체결하지 않았기에 리워드를 받아도 쓸일은 없지만 추후에 만약 계속 하게되면 유사 애플리케이션이 캐쉬슬라이드, 비트머니같은 기능을 만들 예정
 
  <div>
- <img src="https://user-images.githubusercontent.com/35592924/51080511-53924d00-1720-11e9-881b-215988f2e10f.png" width="48%"></img>
+ <img src="https://user-images.githubusercontent.com/35592924/51080511-53924d00-1720-11e9-881b-215988f2e10f.png" width="50%"></img>
   <img src="https://user-images.githubusercontent.com/35592924/51080507-52612000-1720-11e9-976b-06d2045d76ae.png" width="50%"></img>
    <img src="https://user-images.githubusercontent.com/35592924/51080509-52f9b680-1720-11e9-9544-ce20c1bb2e05.png" width="50%"></img>
     <img src="https://user-images.githubusercontent.com/35592924/51080510-52f9b680-1720-11e9-82b2-0584081feed4.png" width="50%"></img>
