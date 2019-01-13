@@ -9,6 +9,7 @@
  <img src="https://user-images.githubusercontent.com/35592924/51080442-18dbe500-171f-11e9-8ddd-b7670ba43426.jpg" width="200%"></img>
  <img src="https://user-images.githubusercontent.com/35592924/51080449-327d2c80-171f-11e9-9d25-26b969783bcd.jpg" width="200%"></img>
  </div>
+ 
 # S: 사람을 M: 만나다
 
 과거 제 4회 제가 하이스쿨 해커톤에 참여해서 최우수상을 탄 기획인 Hitomi.la팀의 Sm이란 기획의 애플리케이션을 리뉴얼해서 짠 애플리케이션
