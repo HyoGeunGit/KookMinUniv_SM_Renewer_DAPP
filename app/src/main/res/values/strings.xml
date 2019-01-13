@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SC promise</string>
+    <string name="promise">promise</string>
+    <string name="press_back_button_one_more">뒤로가기 버튼을 한번 더 누르시면 종료됩니다.</string>
+    <string name="time_test">20시간 5분 전</string>
+    <string name="nick">닉네임</string>
+    <string name="pronick">심효근</string>
+    <string name="comp">완료</string>
+</resources>

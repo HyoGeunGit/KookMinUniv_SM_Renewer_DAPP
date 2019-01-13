@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "312479113964",
+    "firebase_url": "https://sm-meeting-1533367989387.firebaseio.com",
+    "project_id": "sm-meeting-1533367989387",
+    "storage_bucket": "sm-meeting-1533367989387.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312479113964:android:ef804ab317cac439",
+        "android_client_info": {
+          "package_name": "la.hitomi.sm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312479113964-c56gih4k8oqi204mfquuei9vqj1ig2as.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "la.hitomi.sm",
+            "certificate_hash": "50a5e55f24be1487f94d6962a95ab8d5bfea2f6b"
+          }
+        },
+        {
+          "client_id": "312479113964-llmfulb940no9aq9mnjiv7frtk0v806k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHD_NjBuBehVusb5UlBInham0EGlDUld4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312479113964-llmfulb940no9aq9mnjiv7frtk0v806k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
