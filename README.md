@@ -1,17 +1,17 @@
 # KookMinUniv_SM_Renewer_DAPP
 2019 Kookmin Univercity OSS Winter BlockChain Camp  Project
 
-#블럭체인 기반 애플리케이션 (Dapp) 
+# 블럭체인 기반 애플리케이션 (Dapp) 
 
-#과거 제 4회 제가 하이스쿨 해커톤에 참여해서 최우수상을 탄 기획인 Hitomi.la팀의 Sm이란 기획의 애플리케이션을 리뉴얼해서 짠 애플리케이션
+# 과거 제 4회 제가 하이스쿨 해커톤에 참여해서 최우수상을 탄 기획인 Hitomi.la팀의 Sm이란 기획의 애플리케이션을 리뉴얼해서 짠 애플리케이션
 
-#사용한 api 는 Google Map Api, TTS APi, Retrofit2 등
+# 사용한 api 는 Google Map Api, TTS APi, Retrofit2 등
 
-#기획의도
+# 기획의도
 ## 처음에 이 기획을 떠올린 이유는 신뢰가 중요하다, 믿음이 중요하다 말만 번지르르한 이 사회에서 아주 사소한 시간약속조차 지키지 않는 사람이 태반인데, 
 ## 이 사회가 어떻게 신뢰를 유지할까 라는 생각에서 나옴
 
-#기능설명
+# 기능설명
  ## 1. 약속 생성
 ## 2. 캘린더를 통한 약속 일정 알리미
 ## 3. 채팅
